@@ -13,7 +13,7 @@ The codebase adheres to a strict **Modular Separation** requirement. Each platfo
 |                 Platform Selection                 |                 Device Discovery                 |            Remote Controller            |
 |:--------------------------------------------------:|:------------------------------------------------:|:---------------------------------------:|
 | ![Platform Selection](./screenshots/platforms.png) | ![Device Discovery](./screenshots/scanning.jpeg) | ![Remote UI](./screenshots/remote.jpeg) |
-|               *Step 1: Select Brand*               |          *Step 2: Validated Discovery*           |      *Step 3: Low-Latency Control*      |
+|             *Step 1: Select Platform*              |            *Step 2: Device Discovery*            |          *Step 3: Control UI*           |
 
 ### Directory Structure
 ```text
