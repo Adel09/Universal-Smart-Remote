@@ -10,10 +10,10 @@ The codebase adheres to a strict **Modular Separation** requirement. Each platfo
 
 ## 📱 Screenshots
 
-| Platform Selection | Device Discovery | Remote Controller |
-| :---: | :---: | :---: |
-| ![Platform Selection](./assets/screenshots/platform_selection.png) | ![Device Discovery](./assets/screenshots/discovery_screen.png) | ![Remote UI](./assets/screenshots/remote_layout.png) |
-| *Step 1: Select Brand* | *Step 2: Validated Discovery* | *Step 3: Low-Latency Control* |
+|                 Platform Selection                 |                 Device Discovery                 |            Remote Controller            |
+|:--------------------------------------------------:|:------------------------------------------------:|:---------------------------------------:|
+| ![Platform Selection](./screenshots/platforms.png) | ![Device Discovery](./screenshots/scanning.jpeg) | ![Remote UI](./screenshots/remote.jpeg) |
+|               *Step 1: Select Brand*               |          *Step 2: Validated Discovery*           |      *Step 3: Low-Latency Control*      |
 
 ### Directory Structure
 ```text
