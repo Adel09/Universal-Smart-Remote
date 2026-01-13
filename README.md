@@ -1,6 +1,6 @@
 # UniversalRemote: Universal TV Remote
 
-**UniversalRemote** is a high-reliability, senior-engineered Flutter application designed for deterministic control of Smart TV platforms over Wi-Fi. By utilizing **GetX** for reactive state management and platform-native control protocols, LastRemote eliminates the "ghost device" issues found in generic remote apps.
+**UniversalRemote** is a high-reliability, senior-engineered Flutter application designed for deterministic control of Smart TV platforms over Wi-Fi. By utilizing **GetX** for reactive state management and platform-native control protocols, UniversalRemote eliminates the "ghost device" issues found in generic remote apps.
 
 
 
@@ -32,7 +32,7 @@ lib/
 
 ## 🧠 State Management (GetX)
 
-LastRemote leverages **GetX** for high-performance, reactive state management. This ensures the UI stays synchronized with the underlying socket connections and ADB streams without unnecessary rebuilds.
+UniversalRemote leverages **GetX** for high-performance, reactive state management. This ensures the UI stays synchronized with the underlying socket connections and ADB streams without unnecessary rebuilds.
 
 [Image of GetX state management lifecycle diagram]
 
