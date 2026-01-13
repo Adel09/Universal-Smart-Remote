@@ -28,6 +28,7 @@ lib/
 │   └── remotes/          # Dedicated remote layouts per platform
 ├── services/             # Dialog, system, and storage services
 └── theme/                # Global styling and color palettes
+```
 
 ## 🧠 State Management (GetX)
 
