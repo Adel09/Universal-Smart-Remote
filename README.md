@@ -34,7 +34,6 @@ lib/
 
 UniversalRemote leverages **GetX** for high-performance, reactive state management. This ensures the UI stays synchronized with the underlying socket connections and ADB streams without unnecessary rebuilds.
 
-[Image of GetX state management lifecycle diagram]
 
 ### Connection Lifecycle
 Each platform controller (e.g., `FireTVController`) implements a deterministic state machine to handle the volatile nature of network connections:
